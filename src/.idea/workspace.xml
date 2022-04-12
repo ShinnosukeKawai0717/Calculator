@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a31a12fd-ef8e-4328-b9d7-55b18886ca7a" name="Changes" comment="" />
+    <list default="true" id="a31a12fd-ef8e-4328-b9d7-55b18886ca7a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BinaryTreeExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTreeExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/Node.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

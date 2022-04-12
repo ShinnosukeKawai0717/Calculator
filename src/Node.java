@@ -4,7 +4,6 @@
  * @version 1.0
  * @since 11/15/2021
  *
- * CS151 assignment 7 Node.java
  */
 class Node<T> {
     /**

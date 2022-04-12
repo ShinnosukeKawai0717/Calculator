@@ -8,8 +8,6 @@ import static java.lang.System.out;
  * @author shinnosuke kawai
  * @version 1.0
  * @since 11/15/2021
- *
- * CS151 assignment 7 BinaryTreeExpression.java
  */
 
 class BinaryTreeExpression {

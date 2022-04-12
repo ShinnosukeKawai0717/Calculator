@@ -7,7 +7,6 @@ import java.util.ArrayList;
  * @version 1.0
  * @since 11/15/2021
  *
- * CS151 assignment 7 CalculatorLogic.java
  */
 public class CalculatorLogic {
 
