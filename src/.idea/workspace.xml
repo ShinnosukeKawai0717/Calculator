@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a31a12fd-ef8e-4328-b9d7-55b18886ca7a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Calculator/BinaryTreeExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calculator/BinaryTreeExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Calculator/CalculatorLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calculator/CalculatorLogic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Calculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calculator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Calculator/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calculator/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
